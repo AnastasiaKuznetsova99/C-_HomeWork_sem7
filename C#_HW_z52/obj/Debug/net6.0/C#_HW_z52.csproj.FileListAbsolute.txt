@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\C#_HomeWork_7\C#_HW_z52\bin\Debug\net6.0\C#_HW_z52.exe
+C:\Users\Пользователь\Desktop\C#_HomeWork_7\C#_HW_z52\bin\Debug\net6.0\C#_HW_z52.deps.json
+C:\Users\Пользователь\Desktop\C#_HomeWork_7\C#_HW_z52\bin\Debug\net6.0\C#_HW_z52.runtimeconfig.json
+C:\Users\Пользователь\Desktop\C#_HomeWork_7\C#_HW_z52\bin\Debug\net6.0\C#_HW_z52.dll
+C:\Users\Пользователь\Desktop\C#_HomeWork_7\C#_HW_z52\bin\Debug\net6.0\C#_HW_z52.pdb
+C:\Users\Пользователь\Desktop\C#_HomeWork_7\C#_HW_z52\obj\Debug\net6.0\C#_HW_z52.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\C#_HomeWork_7\C#_HW_z52\obj\Debug\net6.0\C#_HW_z52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\C#_HomeWork_7\C#_HW_z52\obj\Debug\net6.0\C#_HW_z52.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\C#_HomeWork_7\C#_HW_z52\obj\Debug\net6.0\C#_HW_z52.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\C#_HomeWork_7\C#_HW_z52\obj\Debug\net6.0\C#_HW_z52.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\C#_HomeWork_7\C#_HW_z52\obj\Debug\net6.0\C#_HW_z52.dll
+C:\Users\Пользователь\Desktop\C#_HomeWork_7\C#_HW_z52\obj\Debug\net6.0\refint\C#_HW_z52.dll
+C:\Users\Пользователь\Desktop\C#_HomeWork_7\C#_HW_z52\obj\Debug\net6.0\C#_HW_z52.pdb
+C:\Users\Пользователь\Desktop\C#_HomeWork_7\C#_HW_z52\obj\Debug\net6.0\C#_HW_z52.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\C#_HomeWork_7\C#_HW_z52\obj\Debug\net6.0\ref\C#_HW_z52.dll
